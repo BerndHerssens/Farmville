@@ -1,0 +1,44 @@
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\bin\Debug\net7.0-windows\Groep project 2.exe
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\bin\Debug\net7.0-windows\Groep project 2.deps.json
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\bin\Debug\net7.0-windows\Groep project 2.runtimeconfig.json
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\bin\Debug\net7.0-windows\Groep project 2.dll
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\bin\Debug\net7.0-windows\Groep project 2.pdb
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Admin_Screen.resources
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form1.resources
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.FrmBestandLezen.resources
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.FrmBestandVerwijderen.resources
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.FrmLoginPage.resources
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Manager_Screen.resources
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Super_Admin_Screen.resources
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.csproj.GenerateResource.cache
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.AssemblyInfoInputs.cache
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.AssemblyInfo.cs
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.csproj.CoreCompileInputs.cache
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.dll
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\refint\Groep project 2.dll
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.pdb
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.genruntimeconfig.cache
+C:\Users\gille\source\repos\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\ref\Groep project 2.dll
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\bin\Debug\net7.0-windows\Groep project 2.exe
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\bin\Debug\net7.0-windows\Groep project 2.deps.json
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\bin\Debug\net7.0-windows\Groep project 2.runtimeconfig.json
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\bin\Debug\net7.0-windows\Groep project 2.dll
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\bin\Debug\net7.0-windows\Groep project 2.pdb
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Admin_Screen.resources
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form1.resources
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.FrmBestandLezen.resources
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.FrmBestandVerwijderen.resources
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.FrmLoginPage.resources
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Manager_Screen.resources
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Super_Admin_Screen.resources
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.csproj.GenerateResource.cache
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.AssemblyInfoInputs.cache
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.AssemblyInfo.cs
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.csproj.CoreCompileInputs.cache
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.dll
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\refint\Groep project 2.dll
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.pdb
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\Groep project 2.genruntimeconfig.cache
+C:\Users\bernd\Desktop\Visual Studio\Oefeningen\Groep Project Nov Dec\WinFormsApp2\obj\Debug\net7.0-windows\ref\Groep project 2.dll
